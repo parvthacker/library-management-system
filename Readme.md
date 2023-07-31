@@ -10,7 +10,7 @@ NOTES:<br>
 <li> Login files will store the password (now in encrypted format)
 <li> .csv files will store all the other data
 
-<br>
+<br><br>
 FUNTIONS:<br>
 <ul>
 <li> ADMIN MENU
@@ -27,7 +27,7 @@ FUNTIONS:<br>
 </ul>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;along with Logout and Exit options.
 
-<br>
+<br><br>
 INSTRUCTIONS: <br>
 Run <i>run.exe</i> file (or build and run <i>run.cpp</i>). This will automatically compile files in the required order.
 
