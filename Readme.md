@@ -4,11 +4,13 @@ A library management software made in java that records books, issuance, and sta
 
 <br>
 NOTES:<br>
+<ul>
 <li> The password will be created as the one entered on first admin login
 <li> The default generated password for Librarian will be created as IdDob
 <li> State files will be created to allow continuations in auto assigned values, etc.
 <li> Login files will store the password (now in encrypted format)
 <li> .csv files will store all the other data
+</ul>
 
 <br><br>
 FUNTIONS:<br>
@@ -34,6 +36,7 @@ Run <i>run.exe</i> file (or build and run <i>run.cpp</i>). This will automatical
 <br>--------------------------------------------------------------------------<br>
 
 Compilation Order:
+<ul>
 <li> Book<font color=#555>.java</font>
 <li> Person<font color=#555>.java</font>
 <li> Patron<font color=#555>.java</font>
@@ -42,13 +45,15 @@ Compilation Order:
 <li> Librarian<font color=#555>.java</font>
 <li> Loan<font color=#555>.java</font>
 <li> Library<font color=#555>.java</font>
-
+</ul>
 
 <br>--------------------------------------------------------------------------<br>
 
 Installations Required
+<ul>
 <li>Java
+</ul>
 
-<br>
+<br><br>
 CHANGELOG: <br>
 Added SHA encryption
